@@ -30,8 +30,9 @@ We need to create folders to help keep ourselves organized. Open the terminal on
 
 ```bash
 # assuming you put the repo on the desktop
-cd ~/Desktop/itm111
-
+cd /home/student/Desktop/itm111
+mkdir code
+cd code
 mkdir week{2..10}
 mkdir final_project
 ```
